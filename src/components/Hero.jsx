@@ -53,8 +53,8 @@ const Hero = () => {
             {/* The Image Container - Sized to match new font scale */}
             <div className="relative w-56 h-56 sm:w-64 sm:h-64 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-full overflow-hidden border-4 border-slate-800/50 shadow-2xl transition-all duration-500 group-hover:border-blue-500/30">
               <img 
-                src="src/assets/mypic.jpeg" 
-                alt="Kaveesha Gunasekara" 
+                src="/mypic.jpeg"
+                alt="Kaveesh Gunasekara" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
             </div>
