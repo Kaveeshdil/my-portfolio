@@ -48,7 +48,7 @@ const Projects = () => {
       description: "C#/.NET based pre-order system to manage hostel cafeteria inventory.",
       tech: ["C#", ".NET", "MySQL"],
       github: "https://github.com/kaveeshdil",
-      youtube: "#",
+      youtube: "https://www.youtube.com/watch?v=ftmbs-iPQfw",
       featured: false 
     }
   ];
