@@ -23,7 +23,7 @@ function App() {
       </main>
 
       <footer className="py-12 text-center text-slate-600 border-t border-slate-800 mt-20">
-        <p>© 2026 Kaveesha Gunasekara. Built with React & Tailwind.</p>
+        <p>© 2026 Kaveesha Gunasekara. </p>
       </footer>
     </div>
   );
