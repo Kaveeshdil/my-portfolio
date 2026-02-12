@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* LOGO */}
         <h1 className="text-xl font-black tracking-tighter uppercase cursor-pointer">
-          KaVeEsH<span className="text-blue-500">.DEV</span>
+          KaVeEsH<span className="text-blue-500">.TECH</span>
         </h1>
 
         {/* Desktop Links */}
