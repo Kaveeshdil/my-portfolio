@@ -1,16 +1,30 @@
-# React + Vite
+# 🚀 My Personal Portfolio | Kaveesh Gunasekara
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my professional portfolio! I am an Graduated Bsc(Hons)Computer Science and a passionate Full-Stack Developer dedicated to building functional and visually appealing web applications. This project showcases my skills, certifications, and the journey I've taken in the world of technology.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+Check out my live portfolio here: [kaveeshgunasekara.tech](http://kaveeshgunasekara.tech)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+This portfolio is built using modern web technologies to ensure performance and scalability:
 
-## React Compiler
+* Frontend: React.js + Vite (for lightning-fast development)
+* Styling: Tailwind CSS (for modern and responsive UI) 
+* Deployment: (Vercel/.tech)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
+* Dynamic Project Cards: Interactive cards displaying my MERN and SQL projects with detailed modals.
+* Certification Showcase: A dedicated section for my professional certifications.
+* Responsive Design: Fully optimized for all devices, from mobile to desktop.
+* Git Version Control: Regularly updated using Git/GitHub workflow.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+```text
+my-portfolio/
+├── src/
+│   ├── components/       # Reusable UI components (ProjectCard, Modal, etc.)
+│   ├── assets/           # Images, Icons, and Certifications
+│   ├── App.jsx           # Main application logic
+│   └── main.jsx          # Entry point
+├── public/               # Static assets
+└── tailwind.config.js    # Styling configuration
